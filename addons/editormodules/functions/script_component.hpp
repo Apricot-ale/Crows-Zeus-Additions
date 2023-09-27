@@ -1,0 +1,1 @@
+#include "\z\crowsza\addons\editormodules\script_component.hpp"

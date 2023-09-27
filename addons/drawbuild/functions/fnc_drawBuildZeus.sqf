@@ -8,6 +8,8 @@ Return: none
 
 Starts the selection handler to select multiple points for you to draw
 
+[] call crowsza_drawbuild_fnc_drawBuildZeus;
+
 *///////////////////////////////////////////////
 #define SCALE_NORMAL   1
 #define SCALE_SELECTED 1.2
